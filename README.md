@@ -9,11 +9,9 @@
 - tinker with variables, data types (+ vectors), functions (+ closures), control flow (+ match) and loops
 - [fundamentals](fundamentals/notes.md)
 
-## ownership_borrowing
-- understanding when values are dropped, references and slice type
-
 ## structs_methods_enums
 - grouping related data and make specific functions to be implemented on them
+- [structs_methods_enums](/structs_methods_enums/notes.md)
 
 ## generics_traits_lifetimes
 

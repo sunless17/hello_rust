@@ -59,7 +59,7 @@ fn parameter_inputs(value: i32, unit_label: char) -> &'static str {
     "hello"
 }
 
-// conditional statements TODO: match control flow
+// conditional statements
 fn control_flow() {
     let number = 3;
 
@@ -80,6 +80,12 @@ fn control_flow() {
         13..=19 => println!("A teen"),
         // Handle the rest of cases
         _ => println!("Ain't special"),
+    }
+    let x = 4;
+    let y = false;
+    match x {
+        4..=6 if y => println!("yes"),
+        _ => println!("no"),
     }
 
     // if let statements
