@@ -11,10 +11,6 @@ cargo run --package hello_world
 # helix ide exclusive
 <kbd>g</kbd><kbd>f</kbd> = follow link
 
-# quest
-## markdown toc
-using toc with helix doesn't produce the expected results (opens a new file #title after trying to follow link)
-
 # lessons
 ## package vs bin
 after reading

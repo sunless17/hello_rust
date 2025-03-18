@@ -3,9 +3,11 @@ the repository focuses on learning rust
 
 ## hello_world
 - create a project within this workspace that prints "hello world"
-- [hello_world](./hello_world/notes.md)
+- [hello_world](hello_world/notes.md)
+
 ## fundamentals
 - tinker with variables, data types (+ vectors), functions (+ closures), control flow (+ match) and loops
+- [fundamentals](fundamentals/notes.md)
 
 ## ownership_borrowing
 - understanding when values are dropped, references and slice type
