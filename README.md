@@ -1,5 +1,5 @@
 # learning rust
-the repository focuses on learning rust
+- the repository focuses on learning rust
 
 ## hello_world
 - create a project within this workspace that prints "hello world"

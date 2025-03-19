@@ -1,5 +1,7 @@
 # create hello world
-**cargo** automatically creates the project with a binary file
+- **cargo** automatically creates the project with a binary file
+
+# concepts
 
 ```bash
 # create project
@@ -8,13 +10,10 @@ cargo new hello_world
 cargo run --package hello_world
 ```
 
-# helix ide exclusive
-<kbd>g</kbd><kbd>f</kbd> = follow link
-
 # lessons
 ## package vs bin
 after reading
 ```bash
 cargo help run
 ```
-using --package makes more sense over --bin because the hello_world program is implied to be a *package*
+- using --package makes more sense over --bin because the hello_world program is implied to be a *package*
