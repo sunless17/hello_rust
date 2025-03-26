@@ -5,7 +5,7 @@
 - variables
 - data types (+ vectors)
 - loops
-- control flow (+ match)
+- control flow (+ match & if let)
 - functions (+ closures)
 
 # lessons
@@ -19,11 +19,8 @@
 - nested loops have labels
 - default to using while loops (requires condition), when iterating through a collection, the go with for loop
 - idk the application of aliasing (uses the **type** key word), but it's good to know that you can change the data types, not change per say btw
-- use **if let** when matching some enums (**option**)
 - in **match** statement, you can use if
-
-```rust
-```
+- use **if let** when matching some enums (**option**)
 
 # challenges
 - how to return multiple types and values returned from a function
