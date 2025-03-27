@@ -1,5 +1,6 @@
 # learning rust
 - the repository focuses on learning rust
+- temporarily taking a break to project heaven, the concepts just make more sense while actually using them without rails
 
 ## hello_world
 - create a project within this workspace that prints "hello world"
@@ -9,16 +10,6 @@
 - tinker with variables, data types (+ vectors), functions (+ closures), control flow (+ match) and loops
 - [fundamentals](fundamentals/notes.md)
 
-## structs_methods_enums
+## structs_methods
 - grouping related data and make specific functions to be implemented on them
-- [structs_methods_enums](/structs_methods_enums/notes.md)
-
-## generics_traits_lifetimes
-
-## errors_tests
-
-## smartpointers
-
-## concurrency_async
-
-## clap_tokio_reqwest_serde
+- [structs_methods_enums](structs_methods/notes.md)
